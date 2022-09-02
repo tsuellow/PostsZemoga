@@ -1,6 +1,6 @@
-# PostsZemoga App
+# PostsZemoga App <img src="images/ic_launcher.png" alt="Home" width="200"/>
 
- <img src="images/PostsZemoga1.png" alt="Home" width="200"/> <img src="images/PostsZemoga2.png" alt="Home" width="200"/>
+ <img src="images/PostsZemoga1.png" alt="Home" width="200"/>                   <img src="images/PostsZemoga2.png" alt="Home" width="200"/>
  
 ## App Funcionality
 
