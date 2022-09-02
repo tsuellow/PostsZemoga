@@ -1,5 +1,5 @@
 # PostsZemoga App
-
+ <img src="images/PostsZemoga1.png" alt="Home"/>
 ## App Funcionality
 
 ### Home Screen
