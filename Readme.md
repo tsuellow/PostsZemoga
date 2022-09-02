@@ -42,4 +42,4 @@ Download this repository extract and open it in Android Studio
 And you're ready to install the app in Debug mode
 
 # More
-If you want to know more you can check our [blog post](https://www.bloco.io/blog/2020/android-app-starter-update).
+If you want to know more about my skills check out my Taxi App on Google play [Dale Viaje](https://play.google.com/store/apps/details?id=com.dale.viaje.nicaragua.customer).
