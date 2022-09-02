@@ -6,9 +6,12 @@
 
 ### Home Screen
 - The home screen displays a list of post titles loaded from local storage(internal sqlite room database)
+- Posts are ordered with favourites appearing first
 - If  no posts are found it automatically syncs them from https://jsonplaceholder.typicode.com/ on startup
 - A refresh button allows to refresh posts from the API. Posts marked as favourite preserve their favourite status
 - A delete all button allows to drop all posts not marked as favourite
+- Caching in the room database allows favourites and deletions to survive process death.
+- Deletions are only performed locally as https://jsonplaceholder.typicode.com/ is a mock API that wouldnt allow for real remote deletions
 ### Detail Screen
 - Displays details of individual post along with author data and comments that are loaded from the API on demand
 - Buttons allow to mark the post as favourite or delete it from the list
@@ -19,7 +22,7 @@
 - Presentation (for UI logic, with MVVM)
 
 ## Tests
-- Unit tests (only dummy tests beacuse most business logic sits in the Dao and would have required Implementation Tests)
+- Unit tests (only dummy tests because most business logic sits in the Dao and would have required Implementation Tests)
     
 ## Other useful features
 - UI made entirely using Jetpack Compose
