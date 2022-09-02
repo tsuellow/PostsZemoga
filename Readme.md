@@ -1,4 +1,4 @@
-# PostsZemoga App <img src="images/ic_launcher.png" alt="Home" width="200"/>
+# PostsZemoga App <img src="images/ic_launcher.png" alt="Home" />
 
  <img src="images/PostsZemoga1.png" alt="Home" width="200"/>                   <img src="images/PostsZemoga2.png" alt="Home" width="200"/>
  
